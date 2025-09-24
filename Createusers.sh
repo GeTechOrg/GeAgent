@@ -1,5 +1,6 @@
 #!/bin/bash
 # This script is to create users for mary, amy and jany
+# this was done by Okolo elsie
 users=("mary" "amy" "jany")
 for user in "${users[@]}
 do
