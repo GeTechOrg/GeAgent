@@ -1,3 +1,3 @@
 echo "hi elsie its good to hear from you again.goodnight and sleep tight"
-echo "What exactly are you doing today"
+echo "What exactly are you doing today afer class"
 echo " i hope you have everything"
